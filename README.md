@@ -72,7 +72,7 @@ If you have an automated way to do this, would definitely love a PR to make it
 easier for adding new versions of PHP if this benchmark is valuable to people.
 
 
-[blog-link]: https://blog.mykro.co.nz/
+[blog-link]: https://blog.mykro.co.nz/posts/2020-03-29-optimizing-wordpress/
 [php]: ./output/response-times-php.png "PHP and PHP with OpCache Enabled"
 [php-with-cache]: ./output/response-times-php-with-cache.png "PHP with Caching"
 [php-with-cache-with-max]: ./output/response-times-php-with-cache-max.png "PHP With Caching, including Max Response Time"
