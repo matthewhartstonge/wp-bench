@@ -35,6 +35,10 @@ including the Maximum response time observed.
 ![php with all variants under test][php-all-variants]
 fig 4. WordPress PHP Response Times across all different variants tested.
 
+![php requests per second with all variants under test][php-reqs-all-variants]
+fig 5. WordPress Requests per Second across all different variants tested.
+
+
 ## WordPress Site Details
 
 These are purposely dumb values, as this benchmark is expected to be run 
@@ -77,3 +81,4 @@ easier for adding new versions of PHP if this benchmark is valuable to people.
 [php-with-cache]: ./output/response-times-php-with-cache.png "PHP with Caching"
 [php-with-cache-with-max]: ./output/response-times-php-with-cache-max.png "PHP With Caching, including Max Response Time"
 [php-all-variants]: ./output/response-times-all.png "PHP All Variants tested"
+[php-reqs-all-variants]: ./output/requests-per-second-all.png "PHP All Variants Requests/Second"
